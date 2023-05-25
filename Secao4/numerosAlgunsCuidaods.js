@@ -1,0 +1,5 @@
+console.log(7 / 0)
+consoele.log("10"/2)
+consoele.log("Show!"* 2)
+consoele.log(0.1 + 0.7)
+consoele.log((10.345).toFixed(2))
